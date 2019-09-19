@@ -14,3 +14,10 @@ libtorrent4j.iws
 /libtorrent4j*.dylib
 /libtorrent4j*.so
 /libtorrent4j*.dll
+
+.idea
+/gradle
+gradlew.bat
+libtorrent4j_yx.iml
+local.properties
+gradlew
